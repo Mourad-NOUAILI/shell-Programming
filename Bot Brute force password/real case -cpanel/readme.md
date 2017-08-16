@@ -1,3 +1,3 @@
 # cPanel brute forcer
 
-![GitHub Logo](/images/logo.png)
+![cPanel](/cpanel.png)
