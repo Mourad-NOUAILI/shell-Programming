@@ -10,6 +10,7 @@ Dans le dossier ```/var/www/html```, créer le dossier ```/Formation/Botweb/``` 
 
 
 La présentation représente une méthode avec **```/dev/tcp/server/port```**
+https://docs.google.com/presentation/d/1R-FvHCe-u803vxt09TQpg7vWNeEbOuZ3__2aY1DXk5M/pub?start=false&loop=false&delayms=3000#slide=id.g1fbdc71d17_2_155
 
 # Méthod avec **```curl```**
 
