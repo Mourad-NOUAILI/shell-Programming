@@ -6,7 +6,7 @@ Avec phpmyadmin, importer le fichier ```dbBotWeb.sql```.
 
 ## Les fichiers
 
-Dans le dossier ```/Formation/Botweb/``` mettre les fichiers nécessaires.
+Dans le dossier ```/var/www/html```, créer le dossier ```/Formation/Botweb/``` et y mettre dedans les fichiers nécessaires.
 
 
 La présentation représente une méthode avec **```/dev/tcp/server/port```**
