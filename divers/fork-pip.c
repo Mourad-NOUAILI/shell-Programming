@@ -39,12 +39,3 @@ int main(void){
     return 0 ;
    
 }
-
-/*
-<blackbird_0> hi, guys
-<blackbird_0> I have a problem with signals
-<blackbird_0> I'm trying to display this output: Fils: 1 Père:2 Fils: 3 Père: 4 .... Fils: 99 Père: 100
-<blackbird_0> My code works fine, if I display line after line: https://ideone.com/PXg8Hm
-<blackbird_0> But if I delete the carriage return in line 8, the output will be: Fils: 1 Fils: 3 Fils: 5 ... Fils: 99 Père: 2 Père 4 ... Père: 100
-<blackbird_0> Please help
-*/
